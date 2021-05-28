@@ -1,2 +1,2 @@
 # 4p1w
-Python Repo Wordlist for Game "4 Bilder 1 Wort"
+Python Commandline-based Wordlist for the german Android game "4 Bilder 1 Wort"
